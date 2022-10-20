@@ -28,7 +28,7 @@ namespace Polymorphism_Lab_7
                 }
                 else
                 {
-                    Console.WriteLine("Rektangelns bas måste vara högre än 0.");
+                    Console.WriteLine("Basen måste vara högre än 0.");
                 }
             }
         }
@@ -47,7 +47,7 @@ namespace Polymorphism_Lab_7
                 }
                 else
                 {
-                    Console.WriteLine("Rektangelns sidor måste vara högre än 0.");
+                    Console.WriteLine("Höjden måste vara högre än 0.");
                 }
             }
         }
